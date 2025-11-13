@@ -1,4 +1,4 @@
-# Projeto: POO com Python + Bottle + JSON
+# Projeto: POO + TRIO
 
 Este é um projeto de template educacional voltado para o ensino de **Programação Orientada a Objetos (POO)** do Prof. Lucas Boaventura, Universidade de Brasília (UnB).
 
